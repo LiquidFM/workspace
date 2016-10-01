@@ -1,2 +1,7 @@
-build/
-staging/
+# Build stuff
+build
+staging
+
+# Eclipse stuff
+workspace/.metadata
+workspace/RemoteSystemsTempFiles

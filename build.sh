@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-#export PATH="/media/WORKSPACE/qt/sysroot/bin:$PATH"
-#export LD_LIBRARY_PATH="/media/WORKSPACE/github.com/qfm/workspace/root/install/lib"
+#export LD_LIBRARY_PATH="/media/WORKSPACE/github.com/LiquidFM/staging/lib"
+#export LVFS_PLUGINS_DIR="/media/WORKSPACE/github.com/LiquidFM/staging/lib"
 
 mkdir -p staging build/foundation build/3rdparty build/core build/plugins build/fm
 
