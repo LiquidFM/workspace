@@ -1,0 +1,15 @@
+[submodule "workspace/3rdparty"]
+	path = workspace/3rdparty
+	url = git@github.com:LiquidFM/3rdparty.git
+[submodule "workspace/core"]
+	path = workspace/core
+	url = git@github.com:LiquidFM/lvfs-core.git
+[submodule "workspace/fm"]
+	path = workspace/fm
+	url = git@github.com:LiquidFM/fm.git
+[submodule "workspace/foundation"]
+	path = workspace/foundation
+	url = git@github.com:LiquidFM/foundation.git
+[submodule "workspace/plugins"]
+	path = workspace/plugins
+	url = git@github.com:LiquidFM/plugins.git
